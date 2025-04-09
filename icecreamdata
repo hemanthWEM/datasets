@@ -1,0 +1,17 @@
+Temperature,DayOfWeek,Holiday,Humidity,Revenue
+10,Monday,No,80,20
+15,Tuesday,No,75,24
+20,Wednesday,No,70,30
+25,Thursday,No,65,35
+30,Friday,Yes,60,50
+35,Saturday,Yes,55,60
+40,Sunday,Yes,50,70
+20,Monday,No,85,28
+22,Tuesday,No,78,32
+28,Wednesday,No,65,38
+33,Thursday,No,60,45
+38,Friday,Yes,55,58
+42,Saturday,Yes,50,72
+45,Sunday,Yes,48,75
+12,Monday,No,82,22
+18,Tuesday,No,76,26
